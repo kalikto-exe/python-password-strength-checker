@@ -15,3 +15,7 @@ based on length, character variety, and common security rules.
 ## How to run
 ```bash
 python password_checker.py
+
+## Author
+Created by **Kalikto (a.k.a. Smit Mehta)**  
+GitHub: https://github.com/kalikto-exe
